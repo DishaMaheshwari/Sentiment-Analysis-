@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store # Mac specific
+.env/ # if you create a virtual environment
+venv/ # if you create a virtual environment
+data/ # if you download large datasets into a 'data' folder
+*.csv # if your output is a CSV
+*.pkl # if you save models as pickle files
